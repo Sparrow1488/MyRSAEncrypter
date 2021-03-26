@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NHrl7UpN1dgxYX5K62J1/fzwkORataBGv/Hpo2S/V82aRb9/Qao0QdbG/WM779ZLNW5F2DnHf8k4fBIfcMvrVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dom\\Desktop\\Репозитории\\Proj\\tenant-client-server\\Тесты\\RSAEncrypter\\RSAEncrypter\\RSAEncrypter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dom\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dom\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
